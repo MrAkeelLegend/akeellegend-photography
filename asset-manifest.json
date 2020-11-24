@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/akeellegend-photography/static/css/main.3581e011.chunk.css",
+    "main.js": "/akeellegend-photography/static/js/main.a24fe161.chunk.js",
+    "main.js.map": "/akeellegend-photography/static/js/main.a24fe161.chunk.js.map",
+    "runtime-main.js": "/akeellegend-photography/static/js/runtime-main.c159dca1.js",
+    "runtime-main.js.map": "/akeellegend-photography/static/js/runtime-main.c159dca1.js.map",
+    "static/js/2.198d6cee.chunk.js": "/akeellegend-photography/static/js/2.198d6cee.chunk.js",
+    "static/js/2.198d6cee.chunk.js.map": "/akeellegend-photography/static/js/2.198d6cee.chunk.js.map",
+    "static/js/3.0d1b518b.chunk.js": "/akeellegend-photography/static/js/3.0d1b518b.chunk.js",
+    "static/js/3.0d1b518b.chunk.js.map": "/akeellegend-photography/static/js/3.0d1b518b.chunk.js.map",
+    "index.html": "/akeellegend-photography/index.html",
+    "static/css/main.3581e011.chunk.css.map": "/akeellegend-photography/static/css/main.3581e011.chunk.css.map",
+    "static/js/2.198d6cee.chunk.js.LICENSE.txt": "/akeellegend-photography/static/js/2.198d6cee.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c159dca1.js",
+    "static/js/2.198d6cee.chunk.js",
+    "static/css/main.3581e011.chunk.css",
+    "static/js/main.a24fe161.chunk.js"
+  ]
+}
